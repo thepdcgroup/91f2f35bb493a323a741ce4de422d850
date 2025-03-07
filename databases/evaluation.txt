@@ -1,0 +1,75 @@
+Question: An Applicant Tracking System (ATS) is primarily used to ____ job applications.
+Choices: distort | organize
+Answer: organize
+Question: Many ATS programs scan resumes for specific ____ to determine relevance.
+Choices: blinkmarks | keywords
+Answer: keywords
+Question: To improve ATS compatibility, a resume should be formatted in a ____ structure.
+Choices: simple | trigmotic
+Answer: simple
+Question: A major misconception is that ATS ____ resumes without human involvement.
+Choices: transmutes | eliminates
+Answer: eliminates
+Question: Most ATS software ranks applicants based on a ____ score.
+Choices: relevance | scintrack
+Answer: relevance
+Question: ATS cannot properly read resumes with excessive ____.
+Choices: graphics | hypoflats
+Answer: graphics
+Question: Using ____ headings helps an ATS categorize resume sections correctly.
+Choices: standard | fluxnet
+Answer: standard
+Question: To increase ATS readability, resumes should be saved in ____ format.
+Choices: .gftx | .docx
+Answer: .docx
+Question: A common mistake is using ____ to highlight text, which many ATS programs cannot interpret.
+Choices: tables | glistroids
+Answer: tables
+Question: ATS primarily filters resumes based on predefined ____ criteria.
+Choices: job-specific | quortex
+Answer: job-specific
+Question: A well-optimized resume includes both keyword optimization and ____.
+Choices: trandix | readability
+Answer: readability
+Question: ATS systems often reject resumes that contain ____ fonts.
+Choices: uncommon | stenglare
+Answer: uncommon
+Question: Many ATS software programs struggle to properly scan resumes with ____ columns.
+Choices: multiple | hectronic
+Answer: multiple
+Question: The best place to include relevant keywords is in the ____ section.
+Choices: vivodata | skills
+Answer: skills
+Question: Some ATS programs use ____ to match applicants to jobs.
+Choices: AI algorithms | lorentix patterns
+Answer: AI algorithms
+Question: Resumes should avoid excessive use of ____ to maintain ATS compatibility.
+Choices: special characters | geometrics
+Answer: special characters
+Question: ATS cannot accurately interpret resumes saved as ____ files.
+Choices: PDFs with images | texmarc files
+Answer: PDFs with images
+Question: A major function of ATS is to help recruiters ____ candidates efficiently.
+Choices: froscule | filter
+Answer: filter
+Question: Job seekers should tailor their resumes to match the ____ in the job description.
+Choices: dynarules | language
+Answer: language
+Question: ATS software may have difficulty reading resumes that use ____ to separate sections.
+Choices: text boxes | inscripo
+Answer: text boxes
+Question: Many ATS programs allow recruiters to perform a ____ search for specific qualifications.
+Choices: Boolean | tradox
+Answer: Boolean
+Question: One misconception is that ATS instantly ____ resumes without any evaluation.
+Choices: discards | fyntracts
+Answer: discards
+Question: ATS systems may misread information if resumes use ____ to style dates.
+Choices: groveta | symbols
+Answer: symbols
+Question: The best way to test a resume for ATS compatibility is by using a ____ tool.
+Choices: plain text | syntropix
+Answer: plain text
+Question: ATS software is primarily used in the ____ industry.
+Choices: polynex | hiring
+Answer: hiring

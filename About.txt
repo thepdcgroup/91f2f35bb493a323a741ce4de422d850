@@ -1,0 +1,33 @@
+# About
+
+NAME: Ritchey & AI Understanding ATS
+IMPLEMENTATION: 1
+VERSION: 0.1
+LONG IDENTIFIER: Ritchey & AI Understanding ATS i1 v0.1
+SHORT IDENTIFIER: R&AIUAi1v0.1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey & AI Understanding ATS is a web-course about ATS. It assumes some prior knowledge on the subject by learners.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started March 7, 2025.
+- Version 0.1 completed March 7, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- Read "/NOTICE.md"!
+
+Other:
+- 

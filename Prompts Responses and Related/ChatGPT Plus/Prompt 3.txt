@@ -1,0 +1,1 @@
+No, your response is still using Markdown in the article, when it should be using HTML or plain-text. Also, the quiz answers don't seem to be mixed. Remember, the answer shouldn't always be A). It should be a mix of A) or B), so the learner actually has to put some thought into their selection. Please update the quiz, and reading material.

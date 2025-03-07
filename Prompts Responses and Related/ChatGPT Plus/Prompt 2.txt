@@ -1,0 +1,1 @@
+Are you sure that the answers for all questions in the quiz are in the article? Also, remember not to use Markdown for formatting, even in the article. If you need to use formatting in the article, use HTML tags. Avoid HTML in favour of plain-text as much as possible though.
